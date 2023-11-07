@@ -4,34 +4,20 @@
 # Issues: https://github.com/nosmall/dns-blocklists/issues
 # Expires: Updated regularly
 
-! CA AS5769 - Videotron Telecom Ltee
+35.244.88.24
 45.45.0.0/18
-
-! SC AS202425 - IP Volume inc netsecscan.net
-89.248.167.0/24
-
-! CN AS140716 - UNICOM JiangSu WuXi IDC network
-153.35.100.0/23
-221.2.164.37
-
-! CZ ALISOFT
+45.45.45.45
 47.108.137.128
+71.6.134.230
+89.248.167.0/24
 101.132.145.132
-
-! NL Limenet
-91.92.241.127
-
-! SG ALICLOUD-IN
-149.129.147.213
-
-! DE Alpha Strike Labs GmbH
-194.187.176.245
-! DE Technische Universitaet Muenchen
-131.159.25.7
-
-! US Arbor Networks, Inc.
-146.88.241.220
-! US, Mountain View Google LLC
 113.214.65.34
-! US, Ann Arbor Censys, Inc.
+131.159.25.7
+146.88.241.220
+149.129.147.213
+153.35.100.0/23
 162.142.125.212
+167.94.138.52
+167.94.138.111
+194.187.176.245
+221.2.164.37
