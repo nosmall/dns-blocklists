@@ -1,0 +1,9 @@
+# Title: NOsmall's Allowlist for AdGuard
+# Description: The list contains incorrectly blocked domains that limit functionality
+# Homepage: https://github.com/nosmall/dns-blocklists
+# Issues: https://github.com/nosmall/dns-blocklists/issues
+# Expires: Updated regularly
+
+@@||uloz.to^$important
+@@||itmix.cz^$important
+@@||cityzenwear.cz^$important
