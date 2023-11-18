@@ -4,6 +4,7 @@
 # Issues: https://github.com/nosmall/dns-blocklists/issues
 # Expires: Updated regularly
 
+@@||nova.cz^$important
 @@||kapitol.cz^$important
 @@||uloz.to^$important
 @@||itmix.cz^$important
