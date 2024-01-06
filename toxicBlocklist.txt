@@ -35,6 +35,17 @@
 ||creditair*^
 ||ferratum*^
 ||*ferratum*^
+||*cofidis*^
+||*finero*^
+||viasms.cz^
+||bezzaznamu.cz^
+||teticka.cz*^
+||banky.cz*^
+||ofin.cz*^
+||*kamali*^
+||*zaplo*^
+||*movinero*^
+||*skippay*^
 ||*keno*^
 209.222.18.18
 212.182.103.10
