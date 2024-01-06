@@ -36,6 +36,9 @@
 ||ferratum*^
 ||*ferratum*^
 ||*sazka*^
+||*korunka*^
+||*chance*^
+||vyhraj.cz^
 ||*tipsport*^
 ||*fortunebet*^
 ||*betano*^
