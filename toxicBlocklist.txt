@@ -38,6 +38,7 @@
 ||*sazka*^
 ||*korunka*^
 ||*chance*^
+||*loterie*^
 ||vyhraj.cz^
 ||*tipsport*^
 ||*fortunebet*^
