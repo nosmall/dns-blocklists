@@ -4,6 +4,7 @@
 # Issues: https://github.com/nosmall/dns-blocklists/issues
 # Expires: Updated regularly
 ||rerum*^
+||acema*^
 ||fcredit*^
 ||cashbro*^
 ||zoompujcka*^
@@ -17,6 +18,7 @@
 ||buakas*^
 ||pujcka*^
 ||*pujcka*^
+||*pujcky*^
 ||simplenabidka*^
 ||credit*^
 ||creditron*^
@@ -40,6 +42,7 @@
 ||viasms.cz^
 ||bezzaznamu.cz^
 ||teticka.cz*^
+||bankerat*^
 ||banky.cz*^
 ||ofin.cz*^
 ||*kamali*^
