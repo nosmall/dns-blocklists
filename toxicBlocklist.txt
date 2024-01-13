@@ -40,6 +40,8 @@
 ||*cofidis*^
 ||*finero*^
 ||viasms.cz^
+||cfigfinancial.cz*^
+||*financial*^
 ||bezzaznamu.cz^
 ||teticka.cz*^
 ||bankerat*^
