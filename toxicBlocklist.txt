@@ -10,6 +10,7 @@
 ||zoompujcka*^
 ||cfigse*^
 ||rychlepujcit*^
+||pujckuvsem*^
 ||ld-online*^
 ||leadexg*^
 ||pcress3*^
@@ -17,6 +18,7 @@
 ||ocampa*^
 ||buakas*^
 ||pujcka*^
+||*pujcku*^
 ||*pujcka*^
 ||*pujcky*^
 ||simplenabidka*^
