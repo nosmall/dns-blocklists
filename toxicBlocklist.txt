@@ -4,6 +4,7 @@
 # Issues: https://github.com/nosmall/dns-blocklists/issues
 # Expires: Updated regularly
 ||rerum*^
+||tando*^
 ||acema*^
 ||fcredit*^
 ||cashbro*^
