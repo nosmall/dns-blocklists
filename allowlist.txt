@@ -10,3 +10,4 @@
 @@||cityzenwear.cz^$important
 @@||tescoma.cz^$important
 @@||nova.cz^$important
+@@||tv.nova.cz^$important
