@@ -11,4 +11,3 @@
 @@||tescoma.cz^$important
 @@||nova.cz^$important
 @@||kapitol.cz^$important
-@@||cmp.seznam.cz^
