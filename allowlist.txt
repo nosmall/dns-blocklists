@@ -11,3 +11,9 @@
 @@||tescoma.cz^$important
 @@||nova.cz^$important
 @@||kapitol.cz^$important
+@@||unicreditbank.cz^
+@@||credit-suisse.com^
+@@||fcebank.com^
+@@||cic.fr^
+@@||creditmutuel.fr^
+@@||credit-agricole.fr^
