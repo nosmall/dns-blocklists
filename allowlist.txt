@@ -17,3 +17,4 @@
 @@||cic.fr^
 @@||creditmutuel.fr^
 @@||credit-agricole.fr^
+@@||creditas.cz^
