@@ -18,3 +18,4 @@
 @@||creditmutuel.fr^
 @@||credit-agricole.fr^
 @@||creditas.cz^
+@@||google.com^
