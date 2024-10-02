@@ -27,6 +27,7 @@
 ||creditron*^
 ||creditgo*^
 ||coolcredit*^
+||homecredit*^
 ||*credit*^
 ||prestocredit*^
 ||cfigcredit*^
