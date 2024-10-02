@@ -5,12 +5,6 @@
 # Expires: Updated regularly
 
 @@||kapitol.cz^$important
-@@||uloz.to^$important
-@@||itmix.cz^$important
-@@||cityzenwear.cz^$important
-@@||tescoma.cz^$important
-@@||nova.cz^$important
-@@||kapitol.cz^$important
 @@||unicreditbank.cz^
 @@||credit-suisse.com^
 @@||fcebank.com^
@@ -18,4 +12,3 @@
 @@||creditmutuel.fr^
 @@||credit-agricole.fr^
 @@||creditas.cz^
-@@||google.com^
